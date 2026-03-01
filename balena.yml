@@ -12,7 +12,7 @@ assets:
       url: 'https://github.com/hawkins-simon44/samaritans-dashboard'
 data:
   applicationEnvironmentVariables:
-    - SITE_NAME: Cardiff and District
+    - SITE_NAME: Cardiff
     - THREERINGS_APIKEY:
   applicationConfigVariables:
     - BALENA_HOST_CONFIG_disable_overscan: 1

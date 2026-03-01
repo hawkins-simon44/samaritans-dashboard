@@ -58,7 +58,7 @@ In our branch, we used:
 * Sign up for a [balenaCloud](https://www.balena.io/) account, which is free for up to 10 devices.
 * Click the following button:
 
-[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/richardseabrook/samaritans-dashboard)
+[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/hawkins-simon44/samaritans-dashboard)
 
 * Ensure the default device type matches the type of Pi you are using for your project. You must run 64bit OS (the only option for Pi 4 onwards).
 * Click the **Advanced** toggle switch.
